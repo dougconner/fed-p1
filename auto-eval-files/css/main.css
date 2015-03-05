@@ -11,8 +11,8 @@ h1 {
 
 h2 {
 	font-size: 28px;
-    margin: 0 0 27px 0;
 	color: #f07c17;
+    margin: 0 0 27px 0;
 
 }
 
@@ -25,9 +25,9 @@ li {
 }
 
 .box {
+	color: #ccc;
     margin: 31px 0 0 0;
     padding: 30px 30px;
 	border-style: solid;
-	color: #ccc;
 	border-width: 1px;
 }
