@@ -6,14 +6,13 @@ body {
 h1 {
 	color: #666;
 	font-size: 48px;
-    margin: 46px 0 28px 0;
+	margin: 46px 0 28px 0;
 }
 
 h2 {
 	color: #f07c17;
 	font-size: 28px;
-    margin: 0 0 27px 0;
-
+	margin: 0 0 27px 0;
 }
 
 p {
@@ -26,8 +25,8 @@ li {
 
 .box {
 	color: #ccc;
-    margin: 31px 0 0 0;
-    padding: 30px 30px;
+	margin: 31px 0 0 0;
+	padding: 30px 30px;
 	border-style: solid;
 	border-width: 1px;
 }
